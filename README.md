@@ -3,7 +3,7 @@
 </div>  
 
 
-### <div align="center">I'm Kunal, a software developer 👨‍💻 Currently final year student at VIT 🚀</div>  
+### <div align="center">I'm Kunal, a Software developer 👨‍💻 Currently final year student at VIT 🚀</div>  
   
 
 - 🔭 I’m currently working on [Local-Link](https://github.com/Itguykunal/Local-Link)  
