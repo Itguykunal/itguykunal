@@ -115,6 +115,10 @@ If things goes well, this section should automatically be replaced by a list of 
             </a></div>
             <div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
 <br />
+<div align="center">
+  https://leetcode.card.workers.dev/itguykunal?theme=dark&font=baloo&extension=null
+</div>div>
+<br />
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
