@@ -22,6 +22,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,premiere,illustrator" />
+     <br/>
   <img src="https://skillicons.dev/icons?i=cpp,java,python,git,mysql,mongodb,php" />
     <br/>
   <img src="https://skillicons.dev/icons?i=docker,aws,azure" />
