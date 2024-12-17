@@ -52,7 +52,7 @@
   
 
 <br/>  
-
+<br/>  
 <table>
   <tr>
     <th> 
@@ -72,11 +72,11 @@
     <th> <img src="https://leetcode.card.workers.dev/itguykunal?theme=dark&font=baloo&extension=null" /></th>
   </tr>
     
-    
-    
 </table>
+<br/>  
 
 ## 🌱
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=itguykunal&&style=flat-square" align="center" />
             <a href="https://www.buymeacoffee.com/itguykunal" target="_blank" style="display: inline-block;">
