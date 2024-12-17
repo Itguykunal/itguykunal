@@ -91,8 +91,6 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=itguykunal&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-![LeetCode Stats](https://leetcode.card.workers.dev/itguykunal?cache=0&theme=dark&font=baloo&extension=null)
-<br/>  
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
@@ -100,9 +98,6 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=itguykunal&&style=flat-square" align="center" />
@@ -118,6 +113,7 @@ If things goes well, this section should automatically be replaced by a list of 
                     align="center"
                 />
             </a></div>
+            <div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
 <br />
 
 ----
