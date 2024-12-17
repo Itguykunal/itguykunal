@@ -93,13 +93,17 @@
 <br/>  
 
 
-## Leetcode Stats
+## [LeetCode Stats](https://leetcode.com/u/iTGuyKunal)
 
 <div align="center">
   <img src="https://leetcode.card.workers.dev/itguykunal?theme=dark&font=baloo&extension=null" />
 </div>
 <br />
-##
+
+## 🌱
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=itguykunal&&style=flat-square" align="center" />
+</div> 
 <div align="center">
             <a href="https://www.buymeacoffee.com/itguykunal" target="_blank" style="display: inline-block;">
                 <img
@@ -107,10 +111,5 @@
                     align="center"
                 />
             </a></div>
-      
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=itguykunal&&style=flat-square" align="center" />
-</div>  
 <br />
-----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
