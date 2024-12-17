@@ -53,22 +53,28 @@
 
 <br/>  
 
-
-## Github Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itguykunal&theme=dark&show_icons=true&hide_border=false&count_private=true" align="center" />
-</div>  
-
-
-<br/>  
-
-
-## [LeetCode Stats](https://leetcode.com/u/iTGuyKunal)
-
-<div align="center">
-  <img src="https://leetcode.card.workers.dev/itguykunal?theme=dark&font=baloo&extension=null" />
-</div>
-<br />
+<table>
+  <tr>
+    <th> 
+      
+  ## Github Stats 
+      
+  </th>
+  
+  <th>
+    
+  ## [LeetCode Stats](https://leetcode.com/u/iTGuyKunal)
+     
+  </th>
+  </tr>
+    <tr>
+    <th> <img src="https://github-readme-stats.vercel.app/api?username=itguykunal&theme=dark&show_icons=true&hide_border=false&count_private=true" align="center" /></th>
+    <th> <img src="https://leetcode.card.workers.dev/itguykunal?theme=dark&font=baloo&extension=null" /></th>
+  </tr>
+    
+    
+    
+</table>
 
 ## 🌱
 <div align="center">
