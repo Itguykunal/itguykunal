@@ -34,16 +34,16 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/itguykunal" >
-  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/github.svg" width="50" height="50" style="margin-right: 10px;"/>
+<a href="https://github.com/itguykunal" target="_blank">
+  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/github.svg" width="50" height="50"/>
 </a>&nbsp;&nbsp;
-<a href="https://twitter.com/itguykunal" >
-  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter.svg" width="50" height="50" style="margin-right: 10px;"/>
+<a href="https://twitter.com/itguykunal" target="_blank">
+  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter.svg" width="50" height="50"/>
 </a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/itguykunal" >
-  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" width="50" height="50" style="margin-right: 10px;"/>
+<a href="https://linkedin.com/in/itguykunal" target="_blank">
+  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" width="50" height="50"/>
 </a>&nbsp;&nbsp;
-<a href="https://instagram.com/itguykunal" >
+<a href="https://instagram.com/itguykunal" target="_blank">
   <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" width="50" height="50"/>
 </a>
 
