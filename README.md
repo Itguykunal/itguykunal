@@ -116,7 +116,7 @@ If things goes well, this section should automatically be replaced by a list of 
             <div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
 <br />
 <div align="center">
-  https://leetcode.card.workers.dev/itguykunal?theme=dark&font=baloo&extension=null
+  ![LeetCode Stats](https://leetcode.card.workers.dev/itguykunal?theme=dark&font=baloo&extension=null)
 </div>
 <br />
 
