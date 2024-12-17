@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-  
+
 
 ### <div align="center">I'm Kunal, a software developer 👨‍💻 Currently final year student at VIT 🚀</div>  
   
@@ -115,8 +115,10 @@ If things goes well, this section should automatically be replaced by a list of 
             </a></div>
             <div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
 <br />
+## Leetcode Stats
+
 <div align="center">
-  ![LeetCode Stats](https://leetcode.card.workers.dev/itguykunal?theme=dark&font=baloo&extension=null)
+  <img src="https://leetcode.card.workers.dev/itguykunal?theme=dark&font=baloo&extension=null" />
 </div>
 <br />
 
