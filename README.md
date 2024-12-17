@@ -91,21 +91,15 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=itguykunal&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
 
-<br/>  
 
+## Leetcode Stats
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=itguykunal&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
+  <img src="https://leetcode.card.workers.dev/itguykunal?theme=dark&font=baloo&extension=null" />
+</div>
+<br />
+##
 <div align="center">
             <a href="https://www.buymeacoffee.com/itguykunal" target="_blank" style="display: inline-block;">
                 <img
@@ -113,14 +107,10 @@ If things goes well, this section should automatically be replaced by a list of 
                     align="center"
                 />
             </a></div>
-            <div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-<br />
-## Leetcode Stats
-
+      
 <div align="center">
-  <img src="https://leetcode.card.workers.dev/itguykunal?theme=dark&font=baloo&extension=null" />
-</div>
+<img src="https://komarev.com/ghpvc/?username=itguykunal&&style=flat-square" align="center" />
+</div>  
 <br />
-
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
