@@ -69,7 +69,7 @@
   </tr>
     <tr>
     <th> <img src="https://github-readme-stats.vercel.app/api?username=itguykunal&theme=dark&show_icons=true&hide_border=false&count_private=true" align="center" /></th>
-    <th> <img src="https://leetcode.card.workers.dev/itguykunal?theme=dark&font=baloo&extension=null" /></th>
+    <th> <img src="![](https://leetcard.jacoblin.cool/itguykunal?site=cn)" /></th>
   </tr>
     
 </table>
